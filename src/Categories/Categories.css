@@ -1,0 +1,43 @@
+.categories
+{
+    width:25%;
+}
+
+
+.categoriestype
+{
+    background-color: #f7253f;
+    color: #fff;
+    border-bottom:4px solid #ce1a31;
+    padding: 6px;
+    text-align: left;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+.categorieslist
+{
+    list-style-type: none;
+    text-align:left;
+    border:1px solid #f7253f;
+ 
+}
+
+.categorieslist a
+{
+   text-decoration: none;
+   color: #666;
+ 
+}
+
+
+.categorieslist ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+.categorieslist ul li{
+    list-style-type: none;
+    border-bottom: 1px solid #f7253f;
+    padding: 6px;
+    cursor: pointer;
+}

@@ -1,0 +1,22 @@
+.header
+{
+    background-color: #f7253f;
+    width:100%;
+    border-bottom: 4px solid #ce1a31;
+    justify-content: flex-start;
+}
+
+
+.logo,.cart
+{
+    color:white;
+}
+
+.cart{
+    margin-left: 30px;
+}
+
+.navbar
+{
+    justify-content: flex-start;
+}

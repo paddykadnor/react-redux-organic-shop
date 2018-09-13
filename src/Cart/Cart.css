@@ -1,0 +1,35 @@
+.cartcontainer
+{
+    margin-top: 20px;
+}
+
+.cartcontainer h2{
+    text-align: left;
+    font-weight: 400;
+}
+
+.cartname
+{
+    border:1px solid #ccc;
+    border-radius:4px;
+}
+
+.cartinfo
+{margin-bottom: 20px;margin-top:20px;border-top:1px solid #ccc;}
+
+.cartclear
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.row:first-child
+{
+    font-weight: 600;
+}
+
+.row{
+    border-bottom:1px solid #ccc;
+    margin:0px;
+    padding: 20px;
+}
